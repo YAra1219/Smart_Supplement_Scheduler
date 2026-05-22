@@ -27,6 +27,14 @@ Thumbs.db
 
 # ChromaDB
 app/chroma_db/
+chroma.sqlite3
+
+# Node.js
+**/node_modules/
+**/dump.rdb
+
+# 构建产物
+**/dist/
 
 # 日志
 *.log

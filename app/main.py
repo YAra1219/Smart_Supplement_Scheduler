@@ -2,7 +2,8 @@ import os
 import tempfile
 import json
 import base64
-from typing import AsyncGenerator
+import shutil
+from typing import AsyncGenerator, Dict, List, Optional
 from dotenv import load_dotenv
 
 # 加载.env 文件中的环境变量
@@ -12,8 +13,6 @@ from fastapi import FastAPI, UploadFile, File, Form, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
-from typing import List, Optional, Dict
-import shutil
 
 from slowapi import Limiter, _rate_limit_exceeded_handler
 from slowapi.util import get_remote_address
