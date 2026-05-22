@@ -1,0 +1,25 @@
+{
+  "name": "Dietary Supplements: What You Need to Know",
+  "name_en": "Dietary Supplements: What You Need to Know",
+  "type": "膳食补充剂",
+  "source_url": "https://ods.od.nih.gov/factsheets/WYNTK-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "肝脏损伤",
+    "心脏问题"
+  ],
+  "warnings": [
+    "孕妇使用前请咨询医生",
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Some dietary supplements can help you get adequate amounts ofessentialnutrientsif you don’t eat a nutritious variety of foods. However, supplements can’t take the place of the variety of foods that are important to a healthy eating routine. To learn more about what makes a healthy eating routine, theDietary Guidelines for AmericansandMyPlateare good sources of information. Some dietary supplements can improve overall health and help manage some health conditions. For example: Calcium andvitamin Dhelp keep bones strong and reduce bone loss.Folic aciddecreases theriskof certain birth defects.Omega-3 fatty acidsfrom fish oils might help some people with heart disease.A combination of vitamins C and E,zinc,copper,lutein, andzeaxanthin(known as an Age-Related Eye Disease Study [AREDS] formula) may slow down further vision loss in people withage-related macular degeneration(AMD). Many other supplements need more study to determine if they have value. TheU.S. Food and Drug Administration(FDA) does not determine whether dietary supplements are effective before they are marketed.\n",
+    "interactions": "",
+    "risks": "Many supplements contain active ingredients that can have strong effects on the body. Always be alert to the possibility of a bad reaction, especially when taking a new product. You are most likely to haveside effectsfrom dietary supplements if you take them at high doses, or instead of prescribed medicines, or if you take many different supplements. Some supplements can increase the risk of bleeding or, if taken before surgery, can change your response to anesthesia. Supplements can alsointeractwith some medicines in ways that might cause problems. Here are a few examples: Vitamin Kcan reduce the ability of the blood thinner warfarin topreventblood from clotting.St. John’s wort can speed the breakdown of many medicines and reduce theireffectiveness(including some antidepressants, birthcontrolpills, heart medications, anti-HIV medications, andtransplantdrugs).Antioxidantsupplements, such as vitamins C and E, might reduce the effectiveness of some types ofcancerchemotherapy. Manufacturers may add vitamins, minerals, and other supplement ingredients to foods you eat, especially breakfast cereals and beverages. As a result, you may get more of these ingredients than you think, and more might not be better. Taking more than you need costs more and might also raise your risk of side effects. For example, too muchvitamin Acan cause headaches andliverdamage, reduce bone strength, and cause birth defects. Excess iron causesnauseaand vomiting and may damage the liver and other organs. Be cautious about taking dietary supplements, beyond a standard prenatal supplement, if you are pregnant ornursing. Also, be careful about giving supplements to a child, unless recommended by their health care provider. Many supplements have not been well tested for safety in children and in women who are pregnant or nursing. If you think that you have had a bad reaction to a dietary supplement, let your health care provider know. They may report your experience to FDA. You may also submit a report directly to FDA by calling 800-FDA-1088 orcompleting an online form. You should also report your reaction to the manufacturer by using the contact information on the product label.\n\n"
+  }
+}

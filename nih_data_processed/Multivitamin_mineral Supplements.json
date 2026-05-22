@@ -1,0 +1,20 @@
+{
+  "name": "Multivitamin/mineral Supplements",
+  "name_en": "Multivitamin/mineral Supplements",
+  "type": "维生素",
+  "source_url": "https://ods.od.nih.gov/factsheets/MVMS-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [
+    "孕妇使用前请咨询医生"
+  ],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Many types of MVMs are available in stores and online. Companies choose which vitamins and minerals—and how much—to include in their products. There isn’t a standard MVM or a standard list of ingredients. Among the most common MVMs are basic, once-daily products that contain all or most vitamins and minerals in amounts close to what is recommended. Some MVMs contain higher than recommended amounts of some vitamins and minerals. These products may come in packs of two or more pills to take each day. Manufacturers promote some MVMs for specific purposes, such as better athletic performance or energy, weightcontrol, improvedimmunity, or eye health. These products often containherbaland other ingredients (such as greentea, coenzyme Q10, probiotics, orglucosamine) in addition to vitamins and minerals. The recommended amounts ofnutrientsvary by age and sex and are known asRecommended Dietary Allowances(RDAs) andAdequate Intakes(AIs). However, supplementlabelsuse theDaily Value(DV) for each nutrient, which is often, but not always, similar to the RDA or AI for that nutrient. The %DV for each nutrient will show you how much (what percentage) a serving of the product contributes to reaching the DV.\n",
+    "interactions": "Taking a basic MVM is unlikely to harm your health. However, if you consume fortified foods and drinks (such as cereals or beverages with added vitamins and minerals) or take other dietary supplements, make sure that the MVM you take doesn’t cause your intake of any vitamin or mineral to go above theupper limits. (For more information on upper limits, see our individual vitamin and mineralfact sheets.) Smokers, and perhaps former smokers, should avoid MVMs with large amounts of beta-carotene and vitamin A because these ingredients might increase the risk of lung cancer. If you get too much vitamin A during pregnancy, your baby may have an increased risk of birth defects. This risk does not apply to beta-carotene (the form of vitamin A in plant foods, such as carrots, and some dietary supplements).\n",
+    "risks": "People who don’t get enough vitamins and minerals from food alone, are on low-calorie diets, have a poor appetite, or avoid certain foods (such as strictvegetariansandvegans) might consider taking an MVM. Health care providers might also recommend MVMs to patients with certain medical problems. Some people might benefit from taking MVMs or certain nutrients they contain. For example: If you might become pregnant, getting 400 mcg/day of folic acid fromfortifiedfoods and/ordietary supplementslowers your baby’s risk of birth defects of the brain and spine.If you are pregnant, a daily prenatal MVM can help ensure you get enough folic acid, iron,iodine, andvitamin Dduring pregnancy. Your doctor might also recommend separate supplements of iodine and choline, which are often missing or in too small amounts in prenatal MVMs.If you are pregnant and eat a vegetarian or vegan diet, your doctor might suggest other nutrients includingvitamin B12and theomega-3 fatty acidsDHA and EPA.Breastfed babies might also need a vitamin B12 supplement if theirnursingmother is low in B12 or eats a vegan diet.Breastfed and partially breastfedinfantsshould receive vitamin D supplements of 10 mcg (400 IU)/day, as should non-breastfed infants andtoddlerswho drink less than 1 quart per day of vitamin D-fortified formula or milk.If you are older than 50, you should get recommended amounts of vitamin B12 from fortified foods and/or dietary supplements because your body might notabsorbenough of the B12 that is naturally found in food.If you are 60 or older, taking an MVM might help maintain or improve cognitive function, memory, and related mental skills.\n\n"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Zinc",
+  "name_en": "Zinc",
+  "type": "矿物质",
+  "source_url": "https://ods.od.nih.gov/factsheets/Zinc-Consumer",
+  "best_timing": "随餐服用以减少胃部刺激，避免空腹",
+  "synergistic_supplements": [
+    "铜（少量）",
+    "维生素 B6"
+  ],
+  "conflicting_supplements": [
+    "铜",
+    "铁"
+  ],
+  "drug_interactions": [],
+  "side_effects": [
+    "胃部不适",
+    "恶心"
+  ],
+  "warnings": [
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "4 MG",
+  "raw_content": {
+    "intake": "The amount of zinc you need each day depends on your age. Average daily recommended amounts for different ages are listed below inmilligrams(mg). Life StageRecommended AmountBirth to 6 months2 mgInfants7–12 months3 mgChildren 1–3 years3 mgChildren 4–8 years5 mgChildren 9–13 years8 mgTeen males 14–18 years11 mgTeen females 14–18 years9 mgAdult males11 mgAdult females8 mgPregnant teens12 mgPregnant women11 mgBreastfeeding teens13 mgBreastfeeding women12 mg\n",
+    "interactions": "",
+    "risks": "Yes, too much zinc can be harmful. Signs of too much zinc includenausea, dizziness, headaches, upset stomach, vomiting, and loss of appetite. If you take too much zinc for a long time, you could have problems such as lowerimmunity, low levels of high-density lipoprotein (HDL) (good) cholesterol, and low copper levels. Taking very high doses of supplemental zinc can reduce your body’s absorption of magnesium. Using large amounts of denture creams that contain zinc, well beyond what the label recommends, could lead to excessive zinc intake and copper deficiency. This can causeneurologicalproblems, including loss of coordination, numbness, and weakness in the arms, legs, and feet. The dailyupper limitsfor zinc include intakes from all sources—foods, beverages, supplements, and medications. The chart below lists the amounts by age group. These upper limits do not apply to people who take supplemental zinc for medical reasons under the care of a doctor. AgesUpper LimitBirth to 6 months4 mgInfants 7–12 months5 mgChildren 1–3 years7 mgChildren 4–8 years12 mgChildren 9–13 years23 mgTeens 14–18 years34 mgAdults40 mg\n\n"
+  }
+}

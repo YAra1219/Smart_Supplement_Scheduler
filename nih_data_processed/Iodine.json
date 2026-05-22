@@ -1,0 +1,23 @@
+{
+  "name": "Iodine",
+  "name_en": "Iodine",
+  "type": "矿物质",
+  "source_url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "腹泻"
+  ],
+  "warnings": [
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "200 MCG",
+  "raw_content": {
+    "intake": "The amount of iodine you need each day depends on your age. Average daily recommended amounts are listed below in micrograms (mcg). Life StageRecommended AmountBirth to 6 months110 mcgInfants 7–12 months130 mcgChildren 1–8 years90 mcgChildren 9–13 years120 mcgTeens 14–18 years150 mcgAdults150 mcgPregnant teens and women220 mcgBreastfeeding teens and women290 mcg\n",
+    "interactions": "",
+    "risks": "Yes, if you get too much. Getting high levels of iodine can cause some of the same symptoms as iodine deficiency, including goiter (an enlarged thyroid gland). High iodine intakes can also cause thyroid glandinflammationand thyroid cancer. Getting a very large dose of iodine (several grams, for example) can cause burning of the mouth, throat, and stomach; fever; stomach pain;nausea; vomiting;diarrhea; weak pulse; and coma. The daily upper limits for iodine include intakes from all sources—food, beverages, and supplements—and are listed below. These levels do not apply to people who are taking iodine for medical reasons under the care of a doctor. Life StageUpper LimitBirth to 12 months:Not establishedChildren 1–3 years:200 mcgChildren 4–8 years:300 mcgChildren 9–13 years:600 mcgTeens 14–18 years:900 mcgAdults:1,100 mcg\n\n"
+  }
+}

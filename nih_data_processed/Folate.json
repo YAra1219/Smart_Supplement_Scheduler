@@ -1,0 +1,20 @@
+{
+  "name": "Folate",
+  "name_en": "Folate",
+  "type": "维生素 B 族",
+  "source_url": "https://ods.od.nih.gov/factsheets/Folate-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "300 MCG",
+  "raw_content": {
+    "intake": "The amount of folate you need depends on your age. Average daily recommended amounts are listed below inmicrograms(mcg) ofdietary folate equivalents(DFEs). Life StageRecommended AmountBirth to 6 months65 mcg DFEInfants7–12 months80 mcg DFEChildren 1–3 years150 mcg DFEChildren 4–8 years200 mcg DFEChildren 9–13 years300 mcg DFETeens 14–18 years400 mcg DFEAdults 19+ years400 mcg DFEPregnant teens and women600 mcg DFEBreastfeeding teens and women500 mcg DFE The measure of mcg DFE is used because your bodyabsorbsmore folic acid from fortified foods and dietarysupplementsthan folate found naturally in foods. Compared to folate found naturally in foods, you actually need less folic acid to get recommended amounts. For example, 240 mcg of folic acid and 400 mcg of folate are both equal to 400 mcg DFE. All women and teen girls who could become pregnant shouldconsume400 mcg of folic acid daily from supplements, fortified foods, or both in addition to the folate they get from following a healthy eating pattern.\n",
+    "interactions": "",
+    "risks": "Folate that is naturally present in food and beverages is not harmful. However, you should not consume folate in supplements or fortified foods and beverages in amounts above the upper limit, unless recommended by a health care provider. Taking large amounts of folate supplements might hide avitamin B12deficiency because these supplements can correct theanemiathat the vitamin B12 deficiency causes but not thenervedamage that the vitamin B12 deficiency also causes. The vitamin B12 deficiency can lead to permanent damage of the brain, spinal cord, andnerves. Large doses of folate supplements might also worsen thesymptomsof vitamin B12 deficiency. High doses of folic acid might increase the risk of colorectal cancer and possibly other cancers in some people. High doses can also lead to more folic acid in the body than it can use, but whether these increased folic acid levels are harmful is not completely clear. The daily upper limits for folate from supplements and fortified foods and beverages are listed below. AgesUpper LimitBirth to 6 monthsNot establishedInfants 7–12 monthsNot establishedChildren 1–3 years300 mcgChildren 4–8 years400 mcgChildren 9–13 years600 mcgTeens 14–18 years800 mcgAdults 19+ years1,000 mcg\n\n"
+  }
+}

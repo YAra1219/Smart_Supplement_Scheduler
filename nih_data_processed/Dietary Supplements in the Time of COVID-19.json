@@ -1,0 +1,18 @@
+{
+  "name": "Dietary Supplements in the Time of COVID-19",
+  "name_en": "Dietary Supplements in the Time of COVID-19",
+  "type": "膳食补充剂",
+  "source_url": "https://ods.od.nih.gov/factsheets/DietarySupplementsInTheTimeOfCOVID19-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Yourimmune systemis made up ofcells,tissues, and organs that protect you against harmfulbacteria, viruses, and other germs that cause diseases. For example,white blood cellsattack substances they recognize as foreign to your body. Some white blood cells also recognize germs that they have been exposed to before and develop antibodies to defend against them in the future. If you come into contact with the SARS-CoV-2 virus, your body’s immune system will try to fight it off. Your immune system also responds to germs by causinginflammation—redness, swelling, and heat—that helps kill the germs so your body can heal. However, inflammation can also cause damage, and this can sometimes occur in the lungs of people with COVID-19. Other people experience a severe immune response (known as a cytokine storm) that is very serious and increases the risk of death. Vaccines teach your immune system how to fight off germs that cause disease. When you get vaccinated for a germ, your white blood cells make antibodies for that germ. If you’re exposed to it again, your antibodies will recognize the germ and destroy it. COVID-19 vaccines are available for anyone age 6 months or older.\n\n",
+    "interactions": "",
+    "risks": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Phosphorus",
+  "name_en": "Phosphorus",
+  "type": "矿物质",
+  "source_url": "https://ods.od.nih.gov/factsheets/Phosphorus-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "心脏问题"
+  ],
+  "warnings": [
+    "肾病患者需谨慎",
+    "心脏病患者需谨慎"
+  ],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "How much phosphorus you need depends on your age. Average daily recommended amounts are listed below inmilligrams(mg). Life StageRecommended AmountBirth to 6 months100 mgInfants7–12 months275 mgChildren 1–3 years460 mgChildren 4–8 years500 mgChildren 9–13 years1,250 mgTeens 14–18 years1,250 mgPregnant and breastfeeding teens1,250 mgAdults 19 years and older700 mgPregnant and breastfeeding women700 mg\n",
+    "interactions": "People should get most of theirnutrientsfrom food and beverages, according to the federal government’sDietary Guidelines for Americans.Foods containvitamins, minerals,dietary fiber, and other components that benefit health. In some cases,fortifiedfoods and dietary supplements are useful when it is not possible to meet needs for one or more nutrients (for example, during specific life stages such as pregnancy). For more information about building a healthy dietary pattern, see theDietary Guidelines for Americansand the U.S. Department of Agriculture’s (USDA's)MyPlate.\n",
+    "risks": "Yes, phosphorus caninteractwith medicines that you take, and some medicines can affect phosphorus levels in your body. Here are two examples: Antacids containing aluminum hydroxide orcalcium carbonatecan reduce the amount of phosphorus your bodyabsorbs. Examples of these antacids are Maalox, Rulox, Rolaids, and Tums. Using these antacids for 3 months or longer can lead to low levels of phosphorus.Somelaxatives, such as Fleet Prep Kit #1, contain sodium phosphate and can increase phosphorus levels. Taking more than the recommendeddoseof these laxatives can be dangerous, especially if you are dehydrated or have kidney disease or heart disease.\n\n"
+  }
+}

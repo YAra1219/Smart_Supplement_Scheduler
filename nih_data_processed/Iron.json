@@ -1,0 +1,54 @@
+{
+  "name": "Iron",
+  "name_en": "Iron",
+  "type": "矿物质",
+  "source_url": "https://ods.od.nih.gov/factsheets/Iron-Consumer",
+  "best_timing": "空腹服用（饭前 1 小时或饭后 2 小时），搭配维生素 C 可增强吸收",
+  "synergistic_supplements": [
+    "维生素 C",
+    "维生素 B12",
+    "叶酸"
+  ],
+  "conflicting_supplements": [
+    "钙",
+    "锌",
+    "镁"
+  ],
+  "drug_interactions": [
+    {
+      "drug": "左旋多巴（帕金森药物）",
+      "interaction_type": "降低药效",
+      "recommendation": "建议间隔 2-4 小时服用"
+    },
+    {
+      "drug": "左甲状腺素（甲状腺药物）",
+      "interaction_type": "降低药效",
+      "recommendation": "建议间隔 2-4 小时服用"
+    },
+    {
+      "drug": "质子泵抑制剂（胃酸抑制剂）",
+      "interaction_type": "降低吸收",
+      "recommendation": "建议间隔 2-4 小时服用"
+    }
+  ],
+  "side_effects": [
+    "胃部不适",
+    "便秘",
+    "恶心",
+    "腹痛",
+    "腹泻",
+    "肝脏损伤",
+    "心脏问题"
+  ],
+  "warnings": [
+    "血色病患者应避免补充",
+    "心脏病患者需谨慎",
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "40 MG",
+  "raw_content": {
+    "intake": "The amount of iron you need each day depends on your age, your sex, and whether youconsumea mostly plant-based diet. Average daily recommended amounts are listed below inmilligrams(mg).Vegetarianswho do not eat meat,poultry, or seafood need almost twice as much iron as listed in the table because the body doesn’tabsorbnonheme iron in plant foods as well as heme iron in animal foods. Life StageRecommended AmountBirth to 6 months0.27 mgInfants7–12 months11 mgChildren 1–3 years7 mgChildren 4–8 years10 mgChildren 9–13 years8 mgTeen boys 14–18 years11 mgTeen girls 14–18 years15 mgAdult men 19–50 years8 mgAdult women 19–50 years18 mgAdults 51 years and older8 mgPregnant teens27 mgPregnant women27 mgBreastfeeding teens10 mgBreastfeeding women9 mg\n",
+    "interactions": "Yes, iron supplements caninteractor interfere with medicines and other supplements you take. Here are several examples: Iron supplements can reduce the amount of levodopa that the body absorbs, making it less effective. Levodopa, found in Sinemet and Stalevo, is used to treatParkinson’s diseaseandrestless leg syndrome.Taking iron with levothyroxine can reduce this medication’seffectiveness. Levothyroxine (Levothroid, Levoxyl, Synthroid, Tirosint, and Unithroid) is used to treathypothyroidism,goiter, andthyroidcancer.Theproton pump inhibitorslansoprazole (Prevacid) and omeprazole (Prilosec) decrease stomach acid, so they might reduce the amount of nonheme iron that the body absorbs from food.Calciummight interfere with iron absorption. Taking calcium and iron supplements at different times of the day might prevent this problem. Tell your doctor,pharmacist, and other health care providers about any dietary supplements and prescription or over-the-counter medicines you take. They can tell you if the dietary supplements might interact with your medicines or if the medicines might interfere with how your body absorbs, uses, or breaks down nutrients.\n",
+    "risks": "Yes, iron can be harmful if you get too much. In healthy people, taking highdosesof iron supplements (especially on an empty stomach) can cause an upset stomach,constipation,nausea, abdominal pain, vomiting, anddiarrhea. Large amounts of iron might also cause more serious effects, includinginflammationof the stomach lining andulcers. High doses of iron can also decreasezincabsorption. Extremely high doses of iron (in the hundreds or thousands of mg) can cause organ failure, coma, convulsions, and death. Child-proof packaging and warning labels on iron supplements have greatly reduced the number of accidental iron poisonings in children. Some people have aninheritedcondition calledhemochromatosisthat causestoxiclevels of iron to build up in their bodies. Without medical treatment, people with hereditary hemochromatosis can develop serious problems such as livercirrhosis, liver cancer, and heart disease. People with this disorder should avoid using iron supplements andvitaminC supplements. The dailyupper limitsfor iron include intakes from all sources—food, beverages, and supplements—and are listed below. A doctor mightprescribemore than the upper limit of iron to people who need higher doses for a while totreatiron deficiency. AgesUpper LimitBirth to 12 months40 mgChildren 1–13 years40 mgTeens 14–18 years45 mgAdults 19+ years45 mg\n\n"
+  }
+}

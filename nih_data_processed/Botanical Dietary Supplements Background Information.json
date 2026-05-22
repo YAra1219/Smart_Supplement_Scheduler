@@ -1,0 +1,18 @@
+{
+  "name": "Botanical Dietary Supplements Background Information",
+  "name_en": "Botanical Dietary Supplements Background Information",
+  "type": "膳食补充剂",
+  "source_url": "https://ods.od.nih.gov/factsheets/BotanicalBackground-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "To be classified as adietary supplement, a botanical must meet the definition of a dietary supplement as defined by Congress in theDietary Supplement Health and Education Actof 1994. This act states that a dietary supplement is a product (other than tobacco) that Is intended to supplement the dietContains one or more dietaryingredients(includingvitamins,minerals, herbs or other botanicals,amino acids, or other substances) or theirconstituentsIs intended to be taken by mouth as a pill,capsule, tablet, or liquidIs labeled as a dietary supplement\n\n",
+    "interactions": "",
+    "risks": ""
+  }
+}

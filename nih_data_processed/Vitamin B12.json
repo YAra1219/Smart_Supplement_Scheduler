@@ -1,0 +1,21 @@
+{
+  "name": "Vitamin B12",
+  "name_en": "Vitamin B12",
+  "type": "维生素",
+  "source_url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer",
+  "best_timing": "空腹服用（早餐前 30 分钟），可提升能量",
+  "synergistic_supplements": [
+    "叶酸",
+    "维生素 B6"
+  ],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "The amount of vitamin B12 you need each day depends on your age. Average daily recommended amounts for different ages are listed below inmicrograms(mcg). Life StageRecommended AmountBirth to 6 months0.4 mcgInfants7–12 months0.5 mcgChildren 1–3 years0.9 mcgChildren 4–8 years1.2 mcgChildren 9–13 years1.8 mcgTeens 14–18 years2.4 mcgAdults2.4 mcgPregnant teens and women2.6 mcgBreastfeeding teens and women2.8 mcg\n",
+    "interactions": "Vitamin B12 has not been shown to cause any harm, even at high doses.\n",
+    "risks": "Vitamin B12 has not been shown to cause any harm, even at high doses.\n\n"
+  }
+}

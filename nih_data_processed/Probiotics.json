@@ -1,0 +1,18 @@
+{
+  "name": "Probiotics",
+  "name_en": "Probiotics",
+  "type": "益生菌",
+  "source_url": "https://ods.od.nih.gov/factsheets/Probiotics-Consumer",
+  "best_timing": "饭前 30 分钟或随餐服用（避免胃酸过高）",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Microorganisms are used to produce fermented foods, including yogurt, cheese, sourdough bread, pickles, apple cider vinegar, kombucha, miso, kimchi, and sauerkraut. Yogurt, for example, is made by adding live microorganisms (such asLactobacillus bulgaricusandStreptococcus thermophilus) to milk. However, while microorganisms are used to make these foods, not all these foods necessarily contain probiotics with proven health benefits. Manufacturers will sometimes add probiotics to unfermented foods, such as cereals, juices, milks,nutritionbars, smoothies, andinfantandtoddlerformulas. If a food contains probiotics, the genus, species, and strain of the probiotic should be listed on the product label.\n",
+    "interactions": "",
+    "risks": "Most probiotics have been safely used in foods or dietary supplements for decades. Some of the same types of probiotics have been present in fermented food for thousands of years. In healthy people, probiotics may cause gas, but they rarely cause infections or other health problems. However, probiotics might not be safe for everyone. The FDA has reported that probiotics might cause infections or even life-threatening illness in preterm infants. Probiotics might also cause problems such as bacterial infections in people who are already seriously ill or who have weakimmune systems.\n\n"
+  }
+}

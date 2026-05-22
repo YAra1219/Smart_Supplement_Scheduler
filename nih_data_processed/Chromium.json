@@ -1,0 +1,28 @@
+{
+  "name": "Chromium",
+  "name_en": "Chromium",
+  "type": "矿物质",
+  "source_url": "https://ods.od.nih.gov/factsheets/chromium-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [
+    {
+      "drug": "左甲状腺素（甲状腺药物）",
+      "interaction_type": "降低药效",
+      "recommendation": "建议间隔 2-4 小时服用"
+    }
+  ],
+  "side_effects": [
+    "肝脏损伤"
+  ],
+  "warnings": [
+    "肾病患者需谨慎"
+  ],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Scientists do not currently think that chromium is necessary for good health, and chromiumdeficiencyhas not been reported in healthy people. However, in 2001 scientists did consider chromium to be anessentialnutrient, and they set recommended amounts based on theevidenceavailable at that time. Here are the average daily recommended amounts inmicrograms(mcg) that were established in 2001: Life StageRecommended AmountBirth to 6 months0.2 mcgInfants7–12 months5.5 mcgChildren 1–3 years11 mcgChildren 4–8 years15 mcgBoys 9–13 years25 mcgGirls 9–13 years21 mcgTeen boys 14–18 years35 mcgTeen girls 14–18 years24 mcgAdult men 19–50 years35 mcgAdult women 19–50 years25 mcgAdult men 51+ years30 mcgAdult women 51+ years20 mcgPregnant teens29 mcgPregnant women30 mcgBreastfeeding teens44 mcgBreastfeeding women45 mcg\n",
+    "interactions": "Yes. Chromium supplements mightinteractor interfere with medicines that you take. Here are a few examples: Insulin. Taking chromium together with insulin might cause low blood sugar levels.Metformin and other antidiabetes medications. If you take antidiabetes medicine, taking chromium dietary supplements might cause low blood sugar levels.Levothyroxine. Levothyroxine is a medication used totreathypothyroidism(a condition in which thethyroidglanddoes not make enough thyroidhormone). Taking chromium dietary supplements together with levothyroxine might reduce the amount of levothyroxine your body absorbs so you might not be getting the full effect of the medication. Tell your doctor,pharmacist, and other health care providers about any dietary supplements andprescriptionor over-the-counter medicines you take. They can tell you if these dietary supplements might interact with your medicines. They can also explain whether the medicines you take might interfere with how your body absorbs or uses chromium or other nutrients.\n",
+    "risks": "Chromium from food and dietary supplements does not appear to cause any harm, but research is limited. People withkidney diseaseorliverdisease should be cautious about taking high amounts of chromium.\n\n"
+  }
+}

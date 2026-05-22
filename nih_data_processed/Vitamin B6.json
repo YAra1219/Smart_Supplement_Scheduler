@@ -1,0 +1,23 @@
+{
+  "name": "Vitamin B6",
+  "name_en": "Vitamin B6",
+  "type": "维生素",
+  "source_url": "https://ods.od.nih.gov/factsheets/VitaminB6-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "心脏问题"
+  ],
+  "warnings": [
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "30 MG",
+  "raw_content": {
+    "intake": "The amount of vitamin B6 you need depends on your age. Average daily recommended amounts are listed below inmilligrams(mg). Life StageRecommended AmountBirth to 6 months0.1 mgInfants7–12 months0.3 mgChildren 1–3 years0.5 mgChildren 4–8 years0.6 mgChildren 9–13 years1.0 mgTeens 14–18 years (boys)1.3 mgTeens 14–18 years (girls)1.2 mgAdults 19–50 years1.3 mgAdults 51+ years (men)1.7 mgAdults 51+ years (women)1.5 mgPregnant teens and women1.9 mgBreastfeeding teens and women2.0 mg\n",
+    "interactions": "",
+    "risks": "People almost never get too much vitamin B6 from food or beverages. However, taking high amounts of vitamin B6 from supplements for a year or longer can cause severenervedamage, leading people to lose control of their bodily movements. The symptoms usually stop when they stop taking the supplements. Other symptoms of too much vitamin B6 include painful, unsightly skin patches, extreme sensitivity to sunlight, nausea, and heartburn. The dailyupper limitsfor vitamin B6 include intakes from all sources—food, beverages, and supplements—and are listed below. These levels do not apply to people who are taking vitamin B6 for medical reasons under the care of a doctor. Life StageUpper LimitBirth to 12 monthsNot establishedChildren 1–3 years30 mgChildren 4–8 years40 mgChildren 9–13 years60 mgTeens 14–18 years80 mgAdults100 mg Some experts recommend lower limits for vitamin B6. For example, in 2023 the European Food Safety Authority set an upper limit for vitamin B6 of 12 mg per day for all adults, with lower amounts ranging from 2.2 to 10.7 mg per day for infants and children, depending on age.\n\n"
+  }
+}

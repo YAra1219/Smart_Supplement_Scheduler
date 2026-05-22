@@ -1,0 +1,21 @@
+{
+  "name": "Vitamin K",
+  "name_en": "Vitamin K",
+  "type": "维生素",
+  "source_url": "https://ods.od.nih.gov/factsheets/VitaminK-Consumer",
+  "best_timing": "随餐服用（脂溶性）",
+  "synergistic_supplements": [
+    "维生素 D3",
+    "钙"
+  ],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "The amount of vitamin K you need depends on your age and sex. Average daily recommended amounts are listed below inmicrograms(mcg). Life StageRecommended AmountBirth to 6 months2.0 mcg7–12 months2.5 mcg1–3 years30 mcg4–8 years55 mcg9–13 years60 mcg14–18 years75 mcgAdult men 19 years and older120 mcgAdult women 19 years and older90 mcgPregnant or breastfeeding teens75 mcgPregnant or breastfeeding women90 mcg\n",
+    "interactions": "",
+    "risks": "Yes, some medications may interact with vitamin K. Here are a few examples: \n  Warfarin (Coumadin)\n Vitamin K can have a serious interaction with the blood thinner warfarin (Coumadin). If you take warfarin, make sure that the amount of vitamin K youconsumefrom food and supplements is about the same every day. A sudden change in the amount of vitamin K you get can cause dangerous bleeding (if you consume less) or blood clots (if you consume more). Vitamin K can have a serious interaction with the blood thinner warfarin (Coumadin). If you take warfarin, make sure that the amount of vitamin K youconsumefrom food and supplements is about the same every day. A sudden change in the amount of vitamin K you get can cause dangerous bleeding (if you consume less) or blood clots (if you consume more). \n  Antibiotics\n Antibioticscan destroy the good bacteria in your gut. Some of these bacteria make vitamin K. Using antibiotics for more than a few weeks may reduce the amount of vitamin K made in your gut and, therefore, the amount available for your body to use. Antibioticscan destroy the good bacteria in your gut. Some of these bacteria make vitamin K. Using antibiotics for more than a few weeks may reduce the amount of vitamin K made in your gut and, therefore, the amount available for your body to use. \n  Bile acid sequestrants\n Some people takebile acid sequestrants(such as cholestyramine [Questran] and colestipol [Colestid]) to lower bloodcholesterollevels. These medications can reduce the amount of vitamin K your body absorbs, especially if you take them for many years. Some people takebile acid sequestrants(such as cholestyramine [Questran] and colestipol [Colestid]) to lower bloodcholesterollevels. These medications can reduce the amount of vitamin K your body absorbs, especially if you take them for many years. \n  Orlistat\n Orlistat (Alli and Xenical) is a weight-lossdrug. It reduces the amount of fat your body absorbs and can decrease the absorption of vitamin K. Tell your doctor,pharmacist, and other health care providers about any dietary supplements andprescriptionor over-the-counter medicines you take. They can tell you if the dietary supplements might interact with your medicines or if the medicines might interfere with how your body absorbs, uses, or breaks down nutrients such as vitamin K. Orlistat (Alli and Xenical) is a weight-lossdrug. It reduces the amount of fat your body absorbs and can decrease the absorption of vitamin K. Tell your doctor,pharmacist, and other health care providers about any dietary supplements andprescriptionor over-the-counter medicines you take. They can tell you if the dietary supplements might interact with your medicines or if the medicines might interfere with how your body absorbs, uses, or breaks down nutrients such as vitamin K.\n\n"
+  }
+}

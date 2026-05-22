@@ -1,0 +1,23 @@
+{
+  "name": "Carnitine",
+  "name_en": "Carnitine",
+  "type": "氨基酸衍生物",
+  "source_url": "https://ods.od.nih.gov/factsheets/Carnitine-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "腹泻"
+  ],
+  "warnings": [
+    "肾病患者需谨慎"
+  ],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Healthy people’s bodies can make all the carnitine they need. Therefore, carnitine is not anessentialnutrient, and experts haven’t set a recommended daily amount.\n",
+    "interactions": "",
+    "risks": "Carnitine in foods and beverages is safe. Therefore, carnitine doesn’t have anupper limit. However, taking 3gramsor more a day of carnitine as a dietary supplement can causenausea, vomiting, stomach cramps,diarrhea, and a fishy body odor. High amounts can also cause muscle weakness in people withchronickidney disease and can increase the risk ofseizuresin people who have a seizure disorder.\n\n"
+  }
+}

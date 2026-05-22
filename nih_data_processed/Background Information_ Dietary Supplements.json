@@ -1,0 +1,18 @@
+{
+  "name": "Background Information: Dietary Supplements",
+  "name_en": "Background Information: Dietary Supplements",
+  "type": "膳食补充剂",
+  "source_url": "https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "A new dietary ingredient is a dietary ingredient that was not sold in the United States in a dietary supplement before October 15, 1994. TheU.S. Food and Drug Administration(FDA) requiresspecific safety informationfrom a manufacturer intending to market a dietary supplement containing a new dietary ingredient. This information is not required for older dietary supplement ingredients.\n",
+    "interactions": "Dietary supplements are not required by federal law to be tested for safety and effectiveness before they are marketed, so the amount of scientific evidence available for various supplement ingredients varies widely. Some ingredients in dietary supplements have been carefully evaluated. For example, scientists know thatcalciumandvitamin Dare important for keeping bones strong and reducing bone loss. Other supplements, such as manyherbalproducts, need more study to determine their value. Scientists can use several approaches to evaluate dietary supplements for their potential health benefits and risks. They may investigate history of use, conductlaboratory studiesusingcellortissuecultures, and experiment with animals. Studies on people (for example, individualcase reports, observational studies, andclinical trials) provide the most direct evidence of a dietary supplement's effects on health and patterns of use.\n",
+    "risks": "Standardizationis a process that manufacturers may use to ensure batch-to-batch consistency of their products. In some cases, standardization involves identifying specific chemicals (known as markers) that can be used to manufacture a consistent product. The standardization process can also provide a measure of qualitycontrol. Dietary supplements are not required to be standardized in the United States. In fact, no legal or regulatory definition exists in the United States for standardization as it applies to dietary supplements. Because of this, the term standardization may mean many different things. Some manufacturers use the term standardization incorrectly to refer touniformmanufacturing practices; following a recipe is not sufficient for a product to be called standardized. Therefore, the presence of the word standardized on a supplement label does not necessarily indicate product quality.\n\n"
+  }
+}

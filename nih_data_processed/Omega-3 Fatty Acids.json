@@ -1,0 +1,24 @@
+{
+  "name": "Omega-3 Fatty Acids",
+  "name_en": "Omega-3 Fatty Acids",
+  "type": "脂肪酸",
+  "source_url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer",
+  "best_timing": "随餐服用（减少鱼腥味反胃，提高吸收）",
+  "synergistic_supplements": [
+    "维生素 E（防止氧化）"
+  ],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "腹泻",
+    "心脏问题"
+  ],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "Experts have not established recommended amounts for omega-3 fatty acids, except for ALA. Average daily recommended amounts for ALA are listed below ingrams(g). The amount you need depends on your age and sex. Life StageRecommended Amount of ALABirth to 12 months*0.5 gChildren 1–3 years0.7 gChildren 4–8 years0.9 gBoys 9–13 years1.2 gGirls 9–13 years1.0 gTeen boys 14–18 years1.6 gTeen girls 14–18 years1.1 gMen1.6 gWomen1.1 gPregnant teens and women1.4 gBreastfeeding teens and women1.3 g *As total omega-3s. All other values are for ALA alone.\n",
+    "interactions": "",
+    "risks": "TheU.S. Food and Drug Administrationrecommends consuming no more than 5 g/day of EPA and DHA combined from dietary supplements. Anyside effectsfrom taking omega-3 supplements are usually mild. They include an unpleasant taste in the mouth, bad breath, heartburn,nausea, stomach discomfort,diarrhea, headache, and smelly sweat.\n\n"
+  }
+}

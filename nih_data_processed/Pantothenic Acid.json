@@ -1,0 +1,18 @@
+{
+  "name": "Pantothenic Acid",
+  "name_en": "Pantothenic Acid",
+  "type": "膳食补充剂",
+  "source_url": "https://ods.od.nih.gov/factsheets/PantothenicAcid-Consumer",
+  "best_timing": "建议随餐服用或遵医嘱",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [],
+  "warnings": [],
+  "upper_limit": "",
+  "raw_content": {
+    "intake": "The amount of pantothenic acid you need depends on your age and sex. Average daily recommended amounts are listed below inmilligrams(mg). Life StageRecommended AmountBirth to 6 months1.7 mgInfants7–12 months1.8 mgChildren 1–3 years2 mgChildren 4–8 years3 mgChildren 9–13 years4 mgTeens 14–18 years5 mgAdults 19 years and older5 mgPregnant teens and women6 mgBreastfeeding teens and women7 mg\n",
+    "interactions": "For general information about pantothenic acidOffice of Dietary Supplements(ODS)Health Professional Fact Sheet on Pantothenic AcidFor more information on food sources of pantothenic acidUSDA'sFoodData CentralNutrient List for pantothenic acid (listed byfoodor bypantothenic acid content), USDAFor more advice on choosing dietary supplementsODSFrequently Asked Questions: Which brand(s) of dietary supplements should I purchase?For information about building a healthy dietary patternMyPlateDietary Guidelines for Americans\n",
+    "risks": "People should get most of their nutrients from food and beverages, according to the federal government’sDietary Guidelines for Americans.Foods contain vitamins,minerals,dietary fiber, and other components that benefit health. In some cases,fortifiedfoods and dietary supplements are useful when it is not possible to meet needs for one or more nutrients (for example, during specific life stages such as pregnancy). For more information about building a healthy dietary pattern, see theDietary Guidelines for Americansand the U.S. Department of Agriculture’s (USDA's)MyPlate.\n\n"
+  }
+}

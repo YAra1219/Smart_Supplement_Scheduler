@@ -1,0 +1,24 @@
+{
+  "name": "Vitamin A and Carotenoids",
+  "name_en": "Vitamin A and Carotenoids",
+  "type": "维生素",
+  "source_url": "https://ods.od.nih.gov/factsheets/VitaminA-Consumer",
+  "best_timing": "随餐服用（脂溶性）",
+  "synergistic_supplements": [],
+  "conflicting_supplements": [],
+  "drug_interactions": [],
+  "side_effects": [
+    "恶心",
+    "心脏问题"
+  ],
+  "warnings": [
+    "孕妇使用前请咨询医生",
+    "请放置在儿童接触不到的地方"
+  ],
+  "upper_limit": "600 MCG",
+  "raw_content": {
+    "intake": "The amount of vitamin A you need depends on your age and sex. Average daily recommended amounts ofpreformed vitamin Aand provitamin A carotenoids are listed below inmicrograms(mcg) ofretinol activity equivalents(RAE). Life StageRecommended AmountBirth to 6 months400 mcg RAEInfants7–12 months500 mcg RAEChildren 1–3 years300 mcg RAEChildren 4–8 years400 mcg RAEChildren 9–13 years600 mcg RAETeen males 14–18 years900 mcg RAETeen females 14–18 years700 mcg RAEAdult males900 mcg RAEAdult females700 mcg RAEPregnant teens750 mcg RAEPregnant women770 mcg RAEBreastfeeding teens1,200 mcg RAEBreastfeeding women1,300 mcg RAE\n",
+    "interactions": "Yes, vitamin A supplements caninteractor interfere with medicines you take. Here are several examples: Orlistat (Alli, Xenical), a weight-lossdrug, can decrease theabsorptionof vitamin A. This can cause low blood levels of vitamin A in some people.Acitretin (Soriatane), used to treatpsoriasis, and bexarotene (Targretin), used to treat the skin effects of T-celllymphoma, are made from vitamin A. Taking these medicines together with a vitamin A supplement could cause dangerously high levels of vitamin A in the blood. Tell your doctor,pharmacist, and other health care providers about any dietary supplements and medicines you take. They can tell you if those dietary supplements might interact or interfere with yourprescriptionor over-the-counter medicines or if the medicines might interfere with how your body absorbs, uses, or breaks downnutrients.\n",
+    "risks": "Yes, high intakes of some forms of vitamin A can be harmful. Getting too much preformed vitamin A (usually from supplements or certain medicines) can cause severe headache, blurred vision,nausea, dizziness, muscle aches, and problems with coordination. In severe cases, getting too much preformed vitamin A can even lead to coma and death. If you take too much preformed vitamin A while pregnant, it can cause birth defects in your baby, including abnormal eyes, skull, lungs, and heart. If you are or might be pregnant or breastfeeding, you should not take high-dose supplements of preformed vitamin A. High intakes of beta-carotene do not cause the same problems as preformed vitamin A. Consuming high amounts of beta-carotene can turn the skin yellow-orange, but this condition is harmless and goes away when you eat less of it. However, several studies have shown that smokers, former smokers, and people exposed to asbestos who take high-dose beta-carotene supplements have a higher risk of lung cancer and death. The dailyupper limitsforpreformedvitamin A include intakes from all sources—food, beverages, and supplements—and are listed below. These levels do not apply to people who are taking vitamin A for medical reasons under the care of a doctor. There are no upper limits for beta-carotene and other forms of provitamin A. AgesUpper LimitBirth to 12 months600 mcgChildren 1–3 years600 mcgChildren 4–8 years900 mcgChildren 9–13 years1,700 mcgTeens 14–18 years2,800 mcgAdults 19 years and older3,000 mcg\n\n"
+  }
+}
